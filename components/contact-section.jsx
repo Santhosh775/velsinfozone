@@ -18,7 +18,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Visit Us",
-    details: ["123 Tech Park, Innovation District", "Bangalore, Karnataka 560001"],
+    details: ["Natham", "Madurai, Tamil Naadu 624401"],
   },
   {
     icon: Phone,
